@@ -347,7 +347,7 @@
 }
  .logo {
      float: left;
-     margin-top: -15px;
+     margin-top: -18px;
      padding-bottom: 6px;
 }
  nav.main-menu {
@@ -833,7 +833,7 @@
      font-size: 12px;
 }
 .menu-area-main li.active a {
-     color: #f4b328;
+     color: #f42828;
      }
 
  .main-menu {
@@ -1051,7 +1051,7 @@ background-repeat: no-repeat;
      z-index: 999;
      width: 100%;
      padding: 20px 0px 0px 0px;
-     background: #efefef;
+     background: #fff;
 }
  .logo a {
      font-size: 40px;
@@ -1083,8 +1083,8 @@ background-repeat: no-repeat;
 }
  .text-bg a {
      font-size: 16px;
-border: #f4b328 solid 1px;
-background-color: #f4b328;
+border: #f00a0a solid 1px;
+background-color: #f91111;
 color: #fff;
 padding: 9px 0px;
 max-width: 171px;
@@ -1124,7 +1124,7 @@ margin-right: 10px;
      margin: 0px;
 }
  .images_box figure img {
-     width: 100%;
+     width: 70%;
 }
  .img_bg h3 {
      text-align: center;
