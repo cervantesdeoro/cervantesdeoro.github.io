@@ -1124,7 +1124,7 @@ margin-right: 10px;
      margin: 0px;
 }
  .images_box figure img {
-     width: 70%;
+     width: 90%;
 }
  .img_bg h3 {
      text-align: center;
@@ -1167,7 +1167,7 @@ margin-right: 10px;
  .about .about-box h2 {
      padding: 0;
      font-weight: bold;
-     color: #f4b328;
+     color: #200460;
      line-height: 50px;
      font-size: 50px;
 
@@ -1412,7 +1412,7 @@ margin-top: 20px;
      padding-bottom: 60px;
 }
 .titlepage span {padding-top: 30px; display: inline-block; font-size: 17px; color: #000;}
-.yellow {color: #200769; font-weight: bold;}
+.yellow {color: #d29f05; font-weight: bold;}
  .titlepage h2 {
      padding: 0;
      font-weight: bold;
@@ -1420,6 +1420,15 @@ margin-top: 20px;
      line-height: 55px;
      font-size: 50px;
 }
+.red {color: #db0033; font-weight: bold;}
+ .titlepage h2 {
+     padding: 0;
+     font-weight: bold;
+     color: #f80101;
+     line-height: 55px;
+     font-size: 50px;
+}
+
 
 
 /** contact section **/
