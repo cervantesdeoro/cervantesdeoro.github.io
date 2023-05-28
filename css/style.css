@@ -962,6 +962,15 @@
     float: left;
     
 }
+.dropdown-left .dropdown-menu {
+    right: auto;
+    left: 0;
+  }
+
+.dropdown-menu.dropdown-transparent  {
+    background-color: #200769;
+    text-align: left;
+  }  
 
 .header_information {
     background-color: #200769;
