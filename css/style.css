@@ -1157,6 +1157,11 @@ margin-right: 10px;
     display: block;
 
 }
+
+.img-responsive{
+    width: 1089px;
+    height: 698px;
+}
 .carousel-caption {position: inherit;}
 .carousel-indicators .active {
     background-color: #f4b328;
@@ -1337,7 +1342,8 @@ box-shadow: #ddd 0px 0px 0px 0px;
 
  .box_text {
      max-width: 531px;
-     width: 100%;
+     width: 80%;
+     margin: 25px;
      padding: 25px 2px 2px 2px;
 }
 
